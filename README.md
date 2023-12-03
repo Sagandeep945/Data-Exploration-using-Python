@@ -40,7 +40,7 @@ Welcome to my Health Analytics Data Exploration Repository! This repository aims
 
 6. **Data Visualization:** Create interactive visualizations to represent findings from both datasets.
 
-## special note
+## Special note
 
 Thanks for giving your attendion to my project!
 
