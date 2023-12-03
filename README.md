@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to our Health Analytics Data Exploration Repository! This repository is dedicated to fostering research and innovation in the field of health informatics, particularly focusing on diabetes risk prediction and telemedicine during the COVID era. We provide datasets and machine learning code to enable comprehensive analysis and model building.
+I was thinking that what should /Welcome to our Health Analytics Data Exploration Repository! This repository is dedicated to fostering research and innovation in the field of health informatics, particularly focusing on diabetes risk prediction and telemedicine during the COVID era. We provide datasets and machine learning code to enable comprehensive analysis and model building.
 
 ## Datasets
 
